@@ -8,4 +8,4 @@ layout: home
 
 ![Claire's Professional Image](Stage.png)
 
-![Resume](Resume.pdf)
+![Resume](Resume.html)
