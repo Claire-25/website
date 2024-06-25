@@ -1,8 +1,7 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Claire's Personal Website
+description: Resume and Image
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
-
+url: https://claire-25.github.io/website/
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
