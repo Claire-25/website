@@ -4,3 +4,6 @@ layout: home
 ---
 
 # Claire's Website
+## Computer Science Major
+
+
