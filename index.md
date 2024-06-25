@@ -10,7 +10,7 @@ layout: home
 
 ![Resume](Resume.html)
 
-<embed src="https://drive.google.com/drive/home" >
+//<embed src="https://drive.google.com/drive/home" >
 
 
 <html lang="en">
