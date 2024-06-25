@@ -6,5 +6,5 @@ layout: home
 # Claire's Website
 ## Computer Science Major
 
-![Claire's Professional Image]()
+![Claire's Professional Image](Stage.png)
 
