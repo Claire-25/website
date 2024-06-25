@@ -10,7 +10,8 @@ layout: home
 
 ![Resume](Resume.html)
 
-//<embed src="https://drive.google.com/drive/home" >
+<iframe width="480" height="390" frameBorder=0 allowfullscreen allow="geolocation; microphone;camera" src="https://snap.berkeley.edu/embed?projectname=Fractal%20Competition&username=claire%20li&showTitle=true&showAuthor=true&editButton=true&pauseButton=true"></iframe>
+
 
 
 <html lang="en">
